@@ -1,0 +1,19 @@
+h1 {
+    color: red;
+}
+
+#main-heading{
+    color: green;
+    font-size: 80px;
+    background-color: blue;
+}
+
+.article-body{
+    border: solid orange;
+    text-align: center;
+}
+
+.container {
+    width: 400px;
+    height: 200px;
+}
